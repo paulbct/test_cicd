@@ -1,8 +1,8 @@
-Manifest-Version: 1.0.0.202409031607
+Manifest-Version: 1.0.0.202409031659
 Bundle-ManifestVersion: 2
 Bundle-Name: Com Tibco Test Cicd Module
 Bundle-SymbolicName: com.tibco.test.cicd.module
-Bundle-Version: 1.0.0.202409031607
+Bundle-Version: 1.0.0.202409031659
 Bundle-Vendor: TIBCO Software Inc.
 TIBCO-BW-ApplicationModule: META-INF/module.bwm
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
