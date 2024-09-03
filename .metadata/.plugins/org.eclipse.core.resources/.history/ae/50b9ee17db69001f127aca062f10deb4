@@ -6,5 +6,5 @@ bwdocker.certPath=
 #bwdocker.from=tibco/bwce\:2.9.1
 bwdocker.from=francpaul/bwce\:2.9.1
 bwdocker.autoPullImage=IfNotPresent
-docker.image=francpaul/test-cicd
+docker.image=paul/test-cicd
 bwdocker.maintainer=abc@tibco.com
