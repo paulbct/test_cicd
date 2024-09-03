@@ -83,12 +83,6 @@
           </images>
         </configuration>
       </plugin>
-
-		  <plugin>
-		    <groupId>io.fabric8</groupId>
-		    <artifactId>fabric8-maven-plugin</artifactId>
-		  </plugin>
-	
       <plugin>
         <groupId>io.fabric8</groupId>
         <artifactId>fabric8-maven-plugin</artifactId>
