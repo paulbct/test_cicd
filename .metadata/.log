@@ -5131,3 +5131,24 @@ org.eclipse.core.runtime.CoreException: No property tester contributes a propert
 
 !ENTRY com.tibco.bw.studio.maven.plugin 1 0 2024-09-05 16:11:00.136
 !MESSAGE Kind:9, Project:com.tibco.test.cicd.module
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-05 16:12:22.629
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-05 16:12:22.630
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-05 16:12:22.643
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-05 16:12:22.644
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-05 16:12:22.660
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-05 16:12:22.660
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.studio.maven.plugin 1 0 2024-09-05 16:12:22.925
+!MESSAGE Kind:9, Project:com.tibco.test.cicd.module
