@@ -3,13 +3,13 @@
 fabric8.label.project=test-cicd
 fabric8.namespace=default
 fabric8.resources.location=D\:\\CICD\\test
-fabric8.service.containerPort=8085
+fabric8.service.containerPort=8080
 fabric8.service.type=LoadBalancer
 fabric8.env.APP_CONFIG_PROFILE=docker
 fabric8.container.name=test-cicd
 fabric8.label.container=test-cicd
 fabric8.template=test-cicd
-fabric8.service.port=6443
+fabric8.service.port=80
 fabric8.apply.namespace=default
 fabric8.service.name=test-cicd-service
 fabric8.replicationController.name=test-cicd

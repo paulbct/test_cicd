@@ -5209,3 +5209,27 @@ org.eclipse.core.runtime.CoreException: No property tester contributes a propert
 
 !ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 00:15:50.535
 !MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 00:20:49.473
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 00:20:49.474
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 00:40:30.970
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 00:40:30.970
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 00:45:07.230
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 00:45:07.230
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 23:36:09.699
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was acquired
+
+!ENTRY com.tibco.bw.core.design.resource 1 0 2024-09-06 23:36:09.704
+!MESSAGE com.tibco.bw.core.design.resource.refs.BWResourceChangeListernerImpl lock was released
